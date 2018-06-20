@@ -51,5 +51,6 @@ Please submit the following deliverables:
   - 12 responses to the questions above
   - 4 grammar, style, formatting
 
+https://docs.google.com/spreadsheets/d/15R5duIH-mmkeFbsHJvuQE4Kx5oiVJF7AVq3gLAwuVtM/edit?usp=sharing
 
 *40 points TOTAL*
